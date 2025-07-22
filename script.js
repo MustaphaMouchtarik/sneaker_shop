@@ -5,7 +5,7 @@ const products = [
   { id: 3, name: "Jordan 1 Retro High OG", price: 1800, img: "https://m.media-amazon.com/images/I/71n-Dh2kDXL._UY900_.jpg" },
   { id: 4, name: "New Balance 550 White Green", price: 950, img: "https://images.stockx.com/images/New-Balance-550-White-Green-Product.jpg" },
   { id: 5, name: "Nike Dunk Low Panda", price: 1100, img: "https://images.stockx.com/images/Nike-Dunk-Low-Black-White-Product.jpg" },
-  { id: 6, name: "Adidas Forum Low", price: 850, img: "https://images.stockx.com/images/adidas-Forum-Low-White-Blue-Product.jpg" }
+  { id: 6, name: "Adidas Forum Low", price: 850, img: "https://i.ibb.co/S4J1j4tD/Untitled-1.jpg" }
 ];
 
 let cart = [];
